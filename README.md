@@ -8,6 +8,7 @@
   - Phân trang.
   - Hiển thị danh sách video.
   - Chi tiết video.
+  - Chức năng like, share.
   - Lọc video theo sở thích.
   - Hiển thị danh sách video đã thích.
   - Đăng nhập, đăng kí, quên mật khẩu, đổi mật khẩu, đăng xuất.
