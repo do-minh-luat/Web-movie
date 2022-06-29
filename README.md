@@ -2,7 +2,7 @@
 
 #Web được tạo bởi IDE Eclipse.
 
-#Web sừ dụng Java servlet, Jsp, Hibernate và Microsoft Sql Server.
+#Web sừ dụng Java servlet, Jsp, Bootstrap, Hibernate và Microsoft Sql Server.
 
 #Web có các chức năng:
   - Phân trang.
